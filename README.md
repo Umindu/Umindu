@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<p>This is an example: <span class="example-selector"></span></p>
-
-<script src="dist/autotyping.min.js"></script>
-
-<script>
-    const exampleText = ['I can write a whole sentence.', 'Or', 'single', 'words'];
-    const exampleTyping = new AutoTyping('.example-selector', exampleText, {
-        typeSpeed: 50,
-        deleteSpeed: 50,
-        waitBeforeDelete: 2000,
-        waitBetweenWords: 500,
-    });
-    exampleTyping.start()
-</script>
 
 <!-- <h2> Hello, It's Me </h2>
 <h1> Umindu Sandaruwan</h1>
