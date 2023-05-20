@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+  <h2  and I'm a <br></h2>
 
+  <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
+
+  <script>
+      var typed = new Typed('.auto-type', {
+          strings: ["Mobile App Developer", "Web Developer"],
+          typeSpeed: 80,
+          backSpeed: 50,
+          loop: true
+      });
+  </script>
+
+<!-- 
 **Umindu/Umindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
