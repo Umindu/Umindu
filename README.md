@@ -4,7 +4,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: 
 <ul>
-  <li> VUE JS / REACT / JS / HTML / CSS</li>
+  <li> HTML / CSS/ JS </li>
+  <li> Python </li>
 </ul>
 
 - 🌱 I’m currently learning Flutter , React  
