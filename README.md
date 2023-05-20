@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Hello, It's Me </h2>
+<!-- <h2> Hello, It's Me </h2>
 <h1> Umindu Sandaruwan</h1>
 <h2> and I'm a <br></h2>
 
@@ -12,7 +12,7 @@
         backSpeed: 50,
         loop: true
     });
-</script>
+</script> -->
 
 <!-- 
 **Umindu/Umindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
