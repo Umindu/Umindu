@@ -6,7 +6,6 @@
 
 ## Connections
 [![Send Email](https://img.shields.io/static/v1?message=Send%20Email&logo=microsoft-outlook&logoColor=0078d4&labelColor=3c3c3c&color=0078d4&label=)](ybumindu@gmail.com)
-[![GitLab](https://img.shields.io/static/v1?message=TiagoRG&logo=gitlab&labelColor=3c3c3c&color=e24329&label=)](https://gitlab.com/Umindu)
 
 ---
 
