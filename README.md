@@ -15,5 +15,5 @@
 [![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
 <br>
 <a href="https://github.com/Umindu">
-  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Umindu/Umindu/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Umindu/Umindu/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
