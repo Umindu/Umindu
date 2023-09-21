@@ -13,5 +13,5 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Umindu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/umindu-sandaruwan-778b26257/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umindu)](https://github.com/Umindu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindu)](https://github.com/Umindu/github-readme-stats)
 
